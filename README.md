@@ -3,6 +3,7 @@
 
 [Blog](/bloghome) &nbsp; &nbsp; [Research](/research) &nbsp; &nbsp;  [About](/about) &nbsp; &nbsp; [Contact](contact) 
 
+![Morning light on the building site](/images/20211017_weekend_start_morning.jpg)
 -------
 link to a page with brackets and the pathe to the page:
 [the text for the link can be anything](/page1)
